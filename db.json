@@ -1,0 +1,107 @@
+{
+  "products": [
+    {
+      "title": "sp1222",
+      "thumbnail": "https://picsum.photos/200",
+      "brand": "Samsung",
+      "price": "1249",
+      "description": "Samsung's new vahuhfurhfenvefv",
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "title": "OPPOF19",
+      "description": "OPPO F19 is officially announced on April 2021.",
+      "price": 280,
+      "brand": "OPPO",
+      "thumbnail": "https://picsum.photos/200"
+    },
+    {
+      "id": "3",
+      "title": "Huawei P30",
+      "description": "Huawei’s re-badged P30 Pro New",
+      "price": 499,
+      "brand": "Huawei",
+      "thumbnail": "https://picsum.photos/200"
+    },
+    {
+      "title": "SP 1111",
+      "thumbnail": "https://picsum.photos/200",
+      "brand": "Apple",
+      "price": "350000",
+      "description": "fhfrrfrveiuhrevhiuvg",
+      "id": "40EKDs2"
+    },
+    {
+      "title": "SP12345",
+      "thumbnail": "https://picsum.photos/200",
+      "brand": "Apple",
+      "price": "15000222",
+      "description": "BTNYUMILORDVDVFGBVYUN",
+      "id": "a_3fMq6"
+    },
+    {
+      "title": "SP1111",
+      "thumbnail": "https://picsum.photos/200",
+      "brand": "Apple",
+      "price": "31111111113",
+      "description": "ffffffffffffffffffffffffffffffffffffff",
+      "id": "tcwgNfv"
+    },
+    {
+      "title": "frfrfrfrfr",
+      "thumbnail": "https://picsum.photos/200",
+      "brand": "Samsung",
+      "price": "150004444",
+      "description": "gyyyyyyyyyiubbbbbbbbbbbbb",
+      "id": "S27lyl_"
+    }
+  ],
+  "users": [
+    {
+      "email": "thuongptph37545@fpt.edu.vn",
+      "password": "$2a$10$xKUXEkEliDVeZ4ivbUXj8u7ZZoO5w2zZRvHfMoP9Z1NfXUmZqQJxS",
+      "id": 1
+    },
+    {
+      "email": "admin@fpt.edu.vn",
+      "password": "$2a$10$lbGcVUJTVKZg/XsIBxGyv.XSXuZyvkMJv4zifVb0YKT0jcxbYXfNi",
+      "id": 2
+    },
+    {
+      "email": "tung@12345",
+      "password": "$2a$10$MQ2D2XdyIshFvVVZFgk.Su0Zc7aDYkROv1GOEkavzenaDq9M5NEO6",
+      "id": 3
+    },
+    {
+      "email": "linh@gmail.com",
+      "password": "$2a$10$mraagHaKqXcdIxBfdsnk7eYQDfJppr1pFN83KzfJ7NBfGkymIV0eu",
+      "id": 4
+    },
+    {
+      "email": "anh@fpt.edu.vn",
+      "password": "$2a$10$hA8e2Wtd9kjNy6DiUt7VC.rsgoNOd03jBmC1MrjMxp7/ZtyCTC0PW",
+      "id": 5
+    },
+    {
+      "email": "ha@gmail.com",
+      "password": "$2a$10$H2njLbEtZcVKeQ9X9Itd9OfHtntykyL1evscn7LTwQXoz6UHS4zDq",
+      "id": 6
+    },
+    {
+      "email": "ad@fpt.edu.vn",
+      "password": "$2a$10$lJe7d8GZK7mol11dpr/fbevr.W34PfbyLw3oqhHCM3Opmxlq8RoSq",
+      "id": 7
+    },
+    {
+      "email": "tung@gmail.com",
+      "password": "$2a$10$hg69rgP1HtoYMZdRsASowulgMRoSTlNPUCtMZ.j.WR8pptsgKDPZa",
+      "id": 8
+    },
+    {
+      "email": "thuongptph37545@fpt.edu.vnn",
+      "password": "$2a$10$aybqAf6L4J9fLYOnACYN5u9JqTVlB.0Ow0lsqo.ZiQmj22BQUB9u6",
+      "id": 9
+    }
+  ]
+}
