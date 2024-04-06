@@ -1,7 +1,7 @@
 import Footer from '@/layouts/Footer'
 import Header from '@/layouts/Header'
 import { signIn } from '@/services/auth'
-import { SignInForm } from '@/types/auth'
+import { SignInForm } from '../types/Auth'
 import { useState } from 'react'
 import { Button, Form } from 'react-bootstrap'
 import { useForm } from 'react-hook-form'
