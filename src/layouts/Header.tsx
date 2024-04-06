@@ -1,4 +1,3 @@
-import React from 'react'
 import { Button, Container, Form, Nav, NavDropdown, Navbar } from 'react-bootstrap'
 import { BsCart } from 'react-icons/bs'
 import { RxPerson } from 'react-icons/rx'

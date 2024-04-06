@@ -1,5 +1,5 @@
 import axiosInstance from '@/config/axiosInstance'
-import { SignInForm, LoginForm, AuthResponse } from '../types/auth'
+import { SignInForm, LoginForm, AuthResponse } from '../types/Auth'
 import sleep from '@/ultis/sleep.ts'
 
 const signIn = async (formValue: SignInForm): Promise<AuthResponse> => {
